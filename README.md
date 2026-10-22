@@ -75,3 +75,12 @@ Soy **Analista en Sistemas** y estudiante avanzado de la **Licenciatura en Siste
   - **El Biguá Deportes & Amargo y Dulce**: Catálogos digitales y plataformas e-commerce full-stack.
   - **Don Quijote restaurant & Gastronomía Local**: PWAs modernas en modo oscuro con gestión de turnos y pedidos en tiempo real.
 
+---
+
+### Estadísticas en GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=uaderis2pais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uaderis2pais&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=uaderis2pais&theme=tokyonight&hide_border=true&locale=es" />
+</div>
